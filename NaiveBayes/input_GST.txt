@@ -1,0 +1,1 @@
+Strain,Physical,Psychological,Self_control,Attachment,Passion,Perpetrator,Delinquency
